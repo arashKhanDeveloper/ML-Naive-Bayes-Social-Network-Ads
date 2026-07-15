@@ -1,6 +1,6 @@
 #  Prediction Social Network Ads - Naive Bayes 
 
-## Practice Project
+## Tutorial Project
 
 Machine Learning project using Naive Bayes for Social Network Ads prediction with data preprocessing, feature scaling, and model evaluation.
 
