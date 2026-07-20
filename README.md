@@ -2,7 +2,8 @@
 
 ## Tutorial Project
 
-Machine Learning project using Naive Bayes for Social Network Ads prediction with data preprocessing, feature scaling, and model evaluation.
+- This project was created while following online courses and tutorials.
+- Machine Learning project using Naive Bayes for Social Network Ads prediction with data preprocessing, feature scaling, and model evaluation.
 
 ## Features
 
